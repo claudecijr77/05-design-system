@@ -4,13 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26c25ee9-5a6f-44dc-a744-a7ecafcfd93c" name="Changes" comment="A base de um Design System - Configurando Monorepo">
-      <change afterPath="$PROJECT_DIR$/packages/ts-config/base.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/ts-config/react.json" afterDir="false" />
+    <list default="true" id="26c25ee9-5a6f-44dc-a744-a7ecafcfd93c" name="Changes" comment="A base de um Design System - Configuração do TypeScript">
+      <change afterPath="$PROJECT_DIR$/packages/eslint-config/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/react/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/tokens/.eslintrc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/packages/react/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/react/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/react/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/react/src/index.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/packages/tokens/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/tokens/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/tokens/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/tokens/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/tokens/src/colors.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/tokens/src/colors.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/tokens/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/tokens/src/index.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,23 +32,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/cast/desenvolvimento/projetos/claudeci/05-design-system/packages/tokens/src&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/home/cast/desenvolvimento/projetos/claudeci/05-design-system/node_modules/typescript/lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/cast/desenvolvimento/projetos/claudeci/05-design-system/packages/tokens",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "settings.javascript.linters.eslint",
+    "ts.external.directory.path": "/home/cast/desenvolvimento/projetos/claudeci/05-design-system/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/packages/tokens" />
       <recent name="$PROJECT_DIR$/packages/tokens/src" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -65,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1720806245445</updated>
-      <workItem from="1720806246533" duration="5543000" />
+      <workItem from="1720806246533" duration="6879000" />
     </task>
     <task id="LOCAL-00001" summary="A base de um Design System - Criando pacote de tokens">
       <option name="closed" value="true" />
@@ -107,7 +117,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720811217734</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="A base de um Design System - Configuração do TypeScript">
+      <option name="closed" value="true" />
+      <created>1720812578291</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1720812578291</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,6 +142,11 @@
     <MESSAGE value="A base de um Design System - Configurando tokens" />
     <MESSAGE value="A base de um Design System - Build do pacote com TSUP" />
     <MESSAGE value="A base de um Design System - Configurando Monorepo" />
-    <option name="LAST_COMMIT_MESSAGE" value="A base de um Design System - Configurando Monorepo" />
+    <MESSAGE value="A base de um Design System - Configuração do TypeScript" />
+    <option name="LAST_COMMIT_MESSAGE" value="A base de um Design System - Configuração do TypeScript" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
