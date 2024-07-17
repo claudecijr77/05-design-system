@@ -4,18 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26c25ee9-5a6f-44dc-a744-a7ecafcfd93c" name="Changes" comment="Design System em React - Documentação de cores">
-      <change afterPath="$PROJECT_DIR$/packages/docs/src/components/TokensGrid.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/docs/src/pages/tokens/font-sizes.mdx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/docs/src/pages/tokens/font-weights.mdx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/docs/src/pages/tokens/fonts.mdx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/docs/src/pages/tokens/radii.mdx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/docs/src/pages/tokens/sline-height.mdx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/docs/src/pages/tokens/space.mdx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/docs/src/styles/tokens-grid.css" afterDir="false" />
+    <list default="true" id="26c25ee9-5a6f-44dc-a744-a7ecafcfd93c" name="Changes" comment="Design System em React - Documentação de tokens">
+      <change afterPath="$PROJECT_DIR$/turbo.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/docs/.storybook/preview.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/docs/.storybook/preview.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/docs/src/stories/Button.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/docs/src/stories/Button.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/docs/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/packages/docs/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/docs/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/docs/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +47,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/cast/desenvolvimento/projetos/claudeci/05-design-system/packages/docs/src/pages/tokens",
+    "last_opened_file_path": "/home/cast/desenvolvimento/projetos/claudeci/05-design-system/packages/docs",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.standard": "true",
     "node.js.detected.package.tslint": "true",
@@ -70,6 +65,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/packages/docs" />
       <recent name="$PROJECT_DIR$/packages/docs/src/pages/tokens" />
       <recent name="$PROJECT_DIR$/packages/tokens" />
       <recent name="$PROJECT_DIR$/packages/tokens/src" />
@@ -109,7 +105,7 @@
       <updated>1720806245445</updated>
       <workItem from="1720806246533" duration="7824000" />
       <workItem from="1721148670512" duration="7205000" />
-      <workItem from="1721217640456" duration="12049000" />
+      <workItem from="1721217640456" duration="13899000" />
     </task>
     <task id="LOCAL-00001" summary="A base de um Design System - Criando pacote de tokens">
       <option name="closed" value="true" />
@@ -231,7 +227,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721240683384</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Design System em React - Documentação de tokens">
+      <option name="closed" value="true" />
+      <created>1721242691403</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1721242691403</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -251,7 +255,8 @@
     <MESSAGE value="Design System em React - Tema dark no Storybook" />
     <MESSAGE value="Design System em React - Adicionando fonte externa" />
     <MESSAGE value="Design System em React - Documentação de cores" />
-    <option name="LAST_COMMIT_MESSAGE" value="Design System em React - Documentação de cores" />
+    <MESSAGE value="Design System em React - Documentação de tokens" />
+    <option name="LAST_COMMIT_MESSAGE" value="Design System em React - Documentação de tokens" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
