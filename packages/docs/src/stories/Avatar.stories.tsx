@@ -8,6 +8,13 @@ export default {
         src: 'https://github.com/claudecijr77.png',
         alt: 'Claudeci Júnior',
     },
+    argTypes: {
+        src: {
+            control: {
+                type: 'text',
+            },
+        },
+    }
 } as Meta<AvatarProps>
 
 export const Primary: StoryObj<AvatarProps> = {}

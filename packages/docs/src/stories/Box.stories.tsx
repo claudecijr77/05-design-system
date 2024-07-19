@@ -6,7 +6,14 @@ export default {
     component: Box,
     args: {
         children: ( <Text>Testando o elemento em tela</Text>),
-    }
+    },
+    argTypes: {
+        children: {
+            control: {
+                disable: true
+            },
+        },
+    },
 } as Meta<BoxProps>
 
 export const Primary: StoryObj<BoxProps> = {}
