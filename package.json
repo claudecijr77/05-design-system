@@ -9,5 +9,8 @@
   },
   "devDependencies": {
     "turbo": "^1.5.5"
+  },
+  "dependencies": {
+    "esbuild": "^0.23.0"
   }
 }
