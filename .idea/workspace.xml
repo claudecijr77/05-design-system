@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26c25ee9-5a6f-44dc-a744-a7ecafcfd93c" name="Changes" comment="Design System em React - Documentação de tokens">
-      <change afterPath="$PROJECT_DIR$/turbo.json" afterDir="false" />
+    <list default="true" id="6c72a360-19c6-4b0b-b8ff-8f443ba93928" name="Changes" comment="Publicação e manutenção - Publicando Storybook">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/deploy-docs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/deploy-docs.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/docs/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/packages/docs/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/docs/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/docs/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,27 +14,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;claudecijr77&quot;
-  }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/claudecijr77/05-design-system.git&quot;,
-    &quot;accountId&quot;: &quot;b41b9de4-3d82-436f-a3af-4b55c0e4f3a7&quot;
-  }
-}</component>
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
-  </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 1
-}</component>
-  <component name="ProjectId" id="2j9jZuhJ7wgbzIvdZrFm5537UaS" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2jcLkOHXzWiuEY8a9tp864vrbKj" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -47,46 +33,14 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/cast/desenvolvimento/projetos/claudeci/05-design-system/packages/docs",
     "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.standard": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.standard": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Artifacts",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "settings.javascript.linters.eslint",
-    "ts.external.directory.path": "/snap/intellij-idea-ultimate/510/plugins/javascript-plugin/jsLanguageServicesImpl/external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/packages/docs" />
-      <recent name="$PROJECT_DIR$/packages/docs/src/pages/tokens" />
-      <recent name="$PROJECT_DIR$/packages/tokens" />
-      <recent name="$PROJECT_DIR$/packages/tokens/src" />
-      <recent name="$PROJECT_DIR$" />
-    </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="05-design-system" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="05-design-system" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -98,168 +52,20 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="26c25ee9-5a6f-44dc-a744-a7ecafcfd93c" name="Changes" comment="" />
-      <created>1720806245445</created>
+      <changelist id="6c72a360-19c6-4b0b-b8ff-8f443ba93928" name="Changes" comment="Publicação e manutenção - Publicando Storybook" />
+      <created>1721681560691</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1720806245445</updated>
-      <workItem from="1720806246533" duration="7824000" />
-      <workItem from="1721148670512" duration="7205000" />
-      <workItem from="1721217640456" duration="13899000" />
+      <updated>1721681560691</updated>
+      <workItem from="1721681562118" duration="331000" />
     </task>
-    <task id="LOCAL-00001" summary="A base de um Design System - Criando pacote de tokens">
-      <option name="closed" value="true" />
-      <created>1720807303274</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1720807303274</updated>
-    </task>
-    <task id="LOCAL-00002" summary="A base de um Design System - Criando pacote de tokens">
-      <option name="closed" value="true" />
-      <created>1720807602170</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1720807602170</updated>
-    </task>
-    <task id="LOCAL-00003" summary="A base de um Design System - Configurando tokens">
-      <option name="closed" value="true" />
-      <created>1720809364467</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1720809364467</updated>
-    </task>
-    <task id="LOCAL-00004" summary="A base de um Design System - Build do pacote com TSUP">
-      <option name="closed" value="true" />
-      <created>1720809861071</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1720809861071</updated>
-    </task>
-    <task id="LOCAL-00005" summary="A base de um Design System - Configurando Monorepo">
-      <option name="closed" value="true" />
-      <created>1720811217734</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1720811217734</updated>
-    </task>
-    <task id="LOCAL-00006" summary="A base de um Design System - Configuração do TypeScript">
-      <option name="closed" value="true" />
-      <created>1720812578291</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1720812578291</updated>
-    </task>
-    <task id="LOCAL-00007" summary="A base de um Design System - Configuração do ESLint">
-      <option name="closed" value="true" />
-      <created>1720813824205</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1720813824205</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Design System em React - Configurando pacote do React">
-      <option name="closed" value="true" />
-      <created>1721149206990</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1721149206990</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Design System em React - Configuração do Stitches">
-      <option name="closed" value="true" />
-      <created>1721158697741</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1721158697741</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Design System em React - Criando app em Storybook">
-      <option name="closed" value="true" />
-      <created>1721165888069</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1721165888069</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Design System em React - Story: Button">
-      <option name="closed" value="true" />
-      <created>1721220567731</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1721220567731</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Design System em React - Tema dark no Storybook">
-      <option name="closed" value="true" />
-      <created>1721221634442</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1721221634442</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Design System em React - Adicionando fonte externa">
-      <option name="closed" value="true" />
-      <created>1721222360804</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1721222360804</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Design System em React - Documentação de cores">
-      <option name="closed" value="true" />
-      <created>1721240338879</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1721240338879</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Design System em React - Documentação de cores">
-      <option name="closed" value="true" />
-      <created>1721240683384</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1721240683384</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Design System em React - Documentação de tokens">
-      <option name="closed" value="true" />
-      <created>1721242691403</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1721242691403</updated>
-    </task>
-    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="A base de um Design System - Criando pacote de tokens" />
-    <MESSAGE value="A base de um Design System - Configurando tokens" />
-    <MESSAGE value="A base de um Design System - Build do pacote com TSUP" />
-    <MESSAGE value="A base de um Design System - Configurando Monorepo" />
-    <MESSAGE value="A base de um Design System - Configuração do TypeScript" />
-    <MESSAGE value="A base de um Design System - Configuração do ESLint" />
-    <MESSAGE value="Design System em React - Configurando pacote do React" />
-    <MESSAGE value="Design System em React - Configuração do Stitches" />
-    <MESSAGE value="Design System em React - Criando app em Storybook" />
-    <MESSAGE value="Design System em React - Story: Button" />
-    <MESSAGE value="Design System em React - Tema dark no Storybook" />
-    <MESSAGE value="Design System em React - Adicionando fonte externa" />
-    <MESSAGE value="Design System em React - Documentação de cores" />
-    <MESSAGE value="Design System em React - Documentação de tokens" />
-    <option name="LAST_COMMIT_MESSAGE" value="Design System em React - Documentação de tokens" />
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
+    <MESSAGE value="Publicação e manutenção - Publicando Storybook" />
+    <option name="LAST_COMMIT_MESSAGE" value="Publicação e manutenção - Publicando Storybook" />
   </component>
 </project>
