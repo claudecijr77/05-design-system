@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c72a360-19c6-4b0b-b8ff-8f443ba93928" name="Changes" comment="Publicação e manutenção - Publicando Storybook">
+    <list default="true" id="6c72a360-19c6-4b0b-b8ff-8f443ba93928" name="Changes" comment="Publicação e manutenção - Cache na Github Actions">
       <change beforePath="$PROJECT_DIR$/.github/workflows/deploy-docs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/deploy-docs.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -21,9 +21,9 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2jcLkOHXzWiuEY8a9tp864vrbKj" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -38,6 +38,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "/snap/intellij-idea-ultimate/510/plugins/javascript-plugin/jsLanguageServicesImpl/external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -57,15 +58,110 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721681560691</updated>
-      <workItem from="1721681562118" duration="331000" />
+      <workItem from="1721681562118" duration="1550000" />
+      <workItem from="1721737448314" duration="10813000" />
     </task>
+    <task id="LOCAL-00001" summary="Publicação e manutenção - Publicando Storybook">
+      <option name="closed" value="true" />
+      <created>1721681897658</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1721681897658</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Publicação e manutenção - Publicando Storybook">
+      <option name="closed" value="true" />
+      <created>1721684429243</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1721684429243</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Publicação e manutenção - Configurando Changesets">
+      <option name="closed" value="true" />
+      <created>1721741507083</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1721741507084</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Publicação e manutenção - Cache na Github Actions">
+      <option name="closed" value="true" />
+      <created>1721762937324</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1721762937324</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Publicação e manutenção - Cache na Github Actions">
+      <option name="closed" value="true" />
+      <created>1721763351191</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1721763351191</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Publicação e manutenção - Cache na Github Actions">
+      <option name="closed" value="true" />
+      <created>1721763637688</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1721763637688</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Publicação e manutenção - Cache na Github Actions">
+      <option name="closed" value="true" />
+      <created>1721766151093</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1721766151093</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Publicação e manutenção - Cache na Github Actions">
+      <option name="closed" value="true" />
+      <created>1721766407166</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1721766407166</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Publicação e manutenção - Cache na Github Actions">
+      <option name="closed" value="true" />
+      <created>1721766813110</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1721766813110</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Publicação e manutenção - Cache na Github Actions">
+      <option name="closed" value="true" />
+      <created>1721767997077</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1721767997077</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="GitHub.CommitStatus" />
+      </list>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Publicação e manutenção - Publicando Storybook" />
-    <option name="LAST_COMMIT_MESSAGE" value="Publicação e manutenção - Publicando Storybook" />
+    <MESSAGE value="Publicação e manutenção - Configurando Changesets" />
+    <MESSAGE value="Publicação e manutenção - Cache na Github Actions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Publicação e manutenção - Cache na Github Actions" />
   </component>
 </project>
