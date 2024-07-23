@@ -23,7 +23,8 @@ jobs:
 
       - run: npm run build
         env:
-          TURBO_TOKEN: ORPC5AmGbxLp3GaLtm2klwjg
+#          TURBO_TOKEN: ORPC5AmGbxLp3GaLtm2klwjg
+          TURNO_TOKEN: 06dirMTDwcXgp3KK69Asl9EZ
           TURBO_TEAM: ClaudeciTeam
 
       - name: Deploy storybook
