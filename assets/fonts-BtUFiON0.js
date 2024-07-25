@@ -1,0 +1,4 @@
+import{j as t}from"./jsx-runtime-BlAj40OV.js";import{useMDXComponents as r}from"./index-BI1Biiay.js";import{ag as s}from"./chunk-HLWAVYOI-C9p9CLft.js";import{T as e}from"./TokensGrid-DniW8e-e.js";import{b as m}from"./index-v4bgSY9J.js";import"./index-Cs7sjTYM.js";import"./_commonjsHelpers-BosuxZz1.js";import"./iframe-DknoGidK.js";import"../sb-preview/runtime.js";import"./react-18-B8QpLNLP.js";import"./index-BU4L-DQy.js";import"./index-umbQyOkL.js";import"./index-D-8MO0q_.js";import"./index-nrpnv_Jx.js";import"./index-DrFu-skq.js";function i(o){const n={h1:"h1",p:"p",...r(),...o.components};return t.jsxs(t.Fragment,{children:[t.jsx(s,{title:"Tokens/Font Families"}),`
+`,t.jsx(n.h1,{id:"font-families",children:"Font Families"}),`
+`,t.jsx(n.p,{children:"Essas são as cores utilizadas no Ignite UI."}),`
+`,t.jsx(e,{tokens:m})]})}function D(o={}){const{wrapper:n}={...r(),...o.components};return n?t.jsx(n,{...o,children:t.jsx(i,{...o})}):i(o)}export{D as default};
